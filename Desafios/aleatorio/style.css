@@ -1,0 +1,14 @@
+@charset UFT-8
+<style>
+        body{
+            background-color:white ;
+        }
+
+        h1 {
+            background-color: rgb(146, 141, 141)
+        }
+
+        h2{
+            background-color: rgb(226, 222, 222);
+        }
+    </style>
